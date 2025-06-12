@@ -37,7 +37,7 @@ export default function ContactSection() {
 							Get in Touch
 						</a>
 						<a
-							href="/resume.pdf"
+							href="\finalcopy 010625.pdf"
 							target="_blank"
 							className="px-6 py-2 border border-gray-600 text-gray-300 font-medium rounded hover:bg-gray-800 transition-colors inline-flex items-center justify-center gap-2"
 						>
