@@ -21,13 +21,13 @@ export default function ContactSection() {
 							/>
 							<path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
 						</svg>
-						<span>Alappuzha Kerala India</span>
+						<span><b>Alappuzha Kerala India</b></span>
 					</div>
 
 					{/* Contact Buttons */}
 					<div className="flex flex-col sm:flex-row justify-center gap-4">
 						<a
-							href="mailto:david@example.com"
+							href="mailto:devzeus.mathew721@gmail.com"
 							className="px-6 py-2 bg-blue-600 text-white font-medium rounded hover:bg-blue-700 transition-colors inline-flex items-center justify-center gap-2"
 						>
 							<svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
