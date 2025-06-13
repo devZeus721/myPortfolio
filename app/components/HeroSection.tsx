@@ -10,10 +10,10 @@ export default function HeroSection() {
 					<Image src="/pixlr-image-generator-684ad78214e387c70c111d7d.png" alt="Profile Picture" width={120} height={120} className="rounded-full mx-auto border-4 border-gray-700 shadow-lg" />
 				</div>
 				<h1 className="text-3xl sm:text-4xl font-bold text-white mb-3 sm:mb-4">Dion J MAtthew KODIYANPLCKAL</h1>
-				<p className="text-lg sm:text-xl text-gray-300 mb-6 sm:mb-8">INDEPENDENT DESIGNER and WEBSITE CREATOR</p>
+				<p className="text-lg sm:text-xl text-gray-300 mb-6 sm:mb-8">INDEPENDENT DESIGNER & WEBSITE CREATOR</p>
 				<p className="text-gray-400 max-w-2xl mx-auto text-sm sm:text-base px-4">
-					I build exceptional and accessible digital experiences for the web and other creatives.
-					Focusing on beautiful solutions to complicated challenges.
+					<b><i>I build exceptional and accessible digital experiences for the web and other creatives.
+					Focusing on beautiful solutions to complicated challenges.</i></b>
 				</p>
 			{/*I create excellent and accessible digital experiences for websites and other creatives. 
 					Focusing on creating elegant solutions to complex problems.*/}
