@@ -21,7 +21,7 @@ export default function ContactSection() {
 							/>
 							<path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
 						</svg>
-						<span><b>Bangalore Karnataka & Alappuzha Kerala</b></span><br />
+						<span><b>Bangalore & Alappuzha </b></span>
 						<span><b>India</b></span>
 					</div>
 
