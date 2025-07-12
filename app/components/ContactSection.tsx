@@ -22,7 +22,7 @@ export default function ContactSection() {
 							<path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
 						</svg>
 						<span><b>Bangalore KA & Alappuzha KERALA</b></span>
-						<span><b><br/>India</b></span>
+						<span><b><br>India</br></b></span>
 					</div>
 
 					{/* Contact Buttons */}
