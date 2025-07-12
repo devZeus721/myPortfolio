@@ -83,7 +83,7 @@ export default function ContactSection() {
     href="https://x.com/_zeusjmattk21?s=21" 
     target="_blank" 
     rel="noopener noreferrer" 
-    className="text-gray-400 hover:text-blue-400 transition-colors"
+    className="text-gray-400  hover:text-white transition-colors"
     aria-label="X (Twitter) Profile"
   >
     <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
