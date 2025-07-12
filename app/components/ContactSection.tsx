@@ -27,7 +27,7 @@ export default function ContactSection() {
 
 					{/* Contact Buttons */}
 					<div className="flex flex-col sm:flex-row justify-center gap-4">
-						<a
+						{/*<a
 							href="mailto:zeus.mathew721@gmail.com"
 							className="px-6 py-2 bg-blue-600 text-white font-medium rounded hover:bg-blue-700 transition-colors inline-flex items-center justify-center gap-2"
 						>
@@ -36,7 +36,19 @@ export default function ContactSection() {
 								<path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
 							</svg>
 							Get in Touch
-						</a>
+						</a>*/}
+						<a
+  href="https://wa.me/918714406338?text=Hi%20Zeus%2C%20I%20would%20like%20to%20connect%20with%20you!"
+  className="px-6 py-2 bg-green-600 text-white font-medium rounded hover:bg-green-700 transition-colors inline-flex items-center justify-center gap-2"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  {/* WhatsApp SVG Icon */}
+  <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+    <path d="M12.004 2.003c-5.522 0-9.997 4.475-9.997 9.997 0 1.762.462 3.488 1.337 4.997L2 22l5.18-1.354c1.464.802 3.126 1.23 4.824 1.23 5.522 0 9.997-4.475 9.997-9.997s-4.475-9.997-9.997-9.997zm0 18.182c-1.533 0-3.036-.404-4.335-1.172l-.31-.184-3.073.803.822-2.995-.202-.319c-.823-1.3-1.257-2.804-1.257-4.335 0-4.411 3.587-7.998 7.998-7.998s7.998 3.587 7.998 7.998-3.587 7.998-7.998 7.998zm4.326-6.209c-.236-.118-1.396-.688-1.613-.767-.217-.08-.375-.118-.534.118-.158.236-.612.767-.75.925-.138.158-.276.177-.512.059-.236-.118-.996-.366-1.897-1.168-.7-.623-1.173-1.392-1.312-1.627-.138-.236-.015-.363.104-.48.107-.106.236-.276.355-.414.12-.138.159-.236.238-.394.08-.158.04-.296-.02-.414-.059-.117-.534-1.287-.731-1.76-.192-.462-.388-.4-.534-.408-.138-.008-.296-.01-.454-.01s-.414.059-.632.276c-.217.217-.822.803-.822 1.957 0 1.154.842 2.27.958 2.428.118.158 1.658 2.53 4.021 3.447.563.194 1 .309 1.342.396.563.143 1.076.123 1.482.075.452-.054 1.396-.57 1.593-1.122.197-.553.197-1.027.138-1.122-.059-.094-.216-.153-.452-.271z"/>
+  </svg>
+  WhatsApp Me
+</a>
 						<a
   href="/DION JOHNSON mainfinall080725.pdf"
   target="_blank"
